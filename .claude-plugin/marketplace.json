@@ -1,0 +1,17 @@
+{
+  "name": "cc-mod-input-reset-repro",
+  "owner": {
+    "name": "bassic-nerd"
+  },
+  "plugins": [
+    {
+      "name": "cc-mod-input-reset-repro",
+      "source": "./",
+      "author": {
+        "name": "bassic-nerd"
+      },
+      "description": "Repro: a Claude Code mod Input drops the newest typed character when a redraw draws a stale value"
+    }
+  ],
+  "description": "Repro: a Claude Code mod Input drops the newest typed character when a redraw draws a stale value"
+}

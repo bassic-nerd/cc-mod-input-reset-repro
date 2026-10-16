@@ -1,0 +1,10 @@
+{
+  "name": "cc-mod-input-reset-repro",
+  "version": "0.1.0",
+  "description": "Repro: a Claude Code mod Input drops the newest typed character when a redraw draws a stale value",
+  "license": "MIT",
+  "author": {
+    "name": "bassic-nerd"
+  },
+  "repository": "https://github.com/bassic-nerd/cc-mod-input-reset-repro"
+}
